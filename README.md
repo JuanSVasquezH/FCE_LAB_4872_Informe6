@@ -63,7 +63,7 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 4.	Diagramas 
        
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/ImagenesInforme/D1.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
 
 							Diagráma 1 
 
