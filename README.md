@@ -130,51 +130,51 @@ el osciloscopio.
 10. Preguntas propuestas
 
 
-   __10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+   __10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?__
    
    - Aproximadamente 5 cuadroa y medio del valor centra de la Onda 
        
-   __10.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+   __10.2. ¿En qué valor está posicionada la perilla VOLTS/DIV?__
    
-   - La posición por division es: __2 Volts/div
+   - La posición por division es: __2 Volts/div__
 
-   __10.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+   __10.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?__
    
-   - __8 divisiones 
+   - __8 divisiones__
          
-   __10.4.¿En qué valor está posicionada la perilla TIME/DIV? 
+   __10.4.¿En qué valor está posicionada la perilla TIME/DIV?__
    
-   - __50ms Time/Div
+   - __50ms Time/Div__
 
    __10.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-   del osciloscopio?
+   del osciloscopio?__
 
-   - Amplitud de voltaje: __11.20(V)
+   - Amplitud de voltaje: __11.20(V)__
 
-   - Periodo: __0.0004(s)  >>  4*10(-4) (s)
+   - Periodo: __0.0004(s)__  >>  __4*10(-4) (s)__
 
    __10.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-   salida.
+   salida.__
 
-   - f: __2500(Hz)
+   - f: __2500(Hz)__
 
-   - ω: ___15707.96(rad/s)
+   - ω: ___15707.96(rad/s)__
 
-   __10.7. Con el multímetro digital mida el voltaje de salida en RL: 
+   __10.7. Con el multímetro digital mida el voltaje de salida en RL:__ 
    
-   - VRL: __11[V]
+   - VRL: __11[V]__
 
-   __10.8. Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.
+   __10.8. Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.__
 
-   - __¿Coinciden?
+   - __¿Coinciden?__
 
    Los Voltajes medidos no coinciden ya que en el osciloscopios el valor del voltaje __Vp= 11.20 [v]__ 
    y el voltaje __VRL= 11[V]__
    
-   - __¿Por qué?
+   - __¿Por qué?__
    
    Porque el Valor medidio mediante el Osciloscopio nos otorga un valor mas exacgto y aproximado a la  vida real.
-   Pero vemos que el dos da un valor casi identico al del Multímetro con una pequeña variacion de __0.20[V].
+   Pero vemos que el dos da un valor casi identico al del Multímetro con una pequeña variacion de __0.20[V]__.
 
 11. Aportaciones o recomendaciones. 
 
