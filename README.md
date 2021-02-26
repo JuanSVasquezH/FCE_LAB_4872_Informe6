@@ -64,6 +64,13 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 	
 	
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Formas_de_Onda.png)
+	
+	                                   Figura 1 Formas de Onda 
+	
+	
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/F1.png)
+	
+	                                   Figura 2 Formas de Onda (Seno y Coseno)
 		
 
 4.	Diagramas 
