@@ -130,37 +130,51 @@ el osciloscopio.
 10. Preguntas propuestas
 
 
-   10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-   ___________
+   __10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+   
+   - Aproximadamente 5 cuadroa y medio del valor centra de la Onda 
        
-   10.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+   __10.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+   
+   - La posición por division es: __2 Volts/div
 
-   10.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-   __________
+   __10.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+   
+   - __8 divisiones 
          
-   10.4.¿En qué valor está posicionada la perilla TIME/DIV? ___________
+   __10.4.¿En qué valor está posicionada la perilla TIME/DIV? 
+   
+   - __50ms Time/Div
 
-   10.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
-del osciloscopio?
+   __10.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+   del osciloscopio?
 
-   - Amplitud de voltaje: ____________(V)
+   - Amplitud de voltaje: __11.20(V)
 
-   - Periodo: ____________(s)
+   - Periodo: __0.0004(s)  >>  4*10(-4) (s)
 
-   10.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida.
+   __10.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+   salida.
 
-   - f: _____________(Hz)
+   - f: __2500(Hz)
 
-   - ω: ____________(rad/s)
+   - ω: ___15707.96(rad/s)
 
-   10.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+   __10.7. Con el multímetro digital mida el voltaje de salida en RL: 
+   
+   - VRL: __11[V]
 
-   10.8. Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.
+   __10.8. Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.
 
-   - ¿Coinciden? _______ ¿Por qué?
-   _______________________________________________
+   - __¿Coinciden?
 
+   Los Voltajes medidos no coinciden ya que en el osciloscopios el valor del voltaje __Vp= 11.20 [v]__ 
+   y el voltaje __VRL= 11[V]__
+   
+   - __¿Por qué?
+   
+   Porque el Valor medidio mediante el Osciloscopio nos otorga un valor mas exacgto y aproximado a la  vida real.
+   Pero vemos que el dos da un valor casi identico al del Multímetro con una pequeña variacion de __0.20[V].
 
 11. Aportaciones o recomendaciones. 
 
