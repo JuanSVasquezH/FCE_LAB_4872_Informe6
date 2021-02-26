@@ -89,8 +89,17 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
    - Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
       
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
+
+				     Circuito a Implementar (Multisim)_
+
+
    - Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
+
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Osciloscopio.png)
+
+			         Circuito a Implementar_Osciloscopio (Multisim) 
 
    
 
