@@ -172,6 +172,12 @@ salida.
 
 13. Bibliografía.
 
+       - 	Ecured (2020). Onda Senoidal, Recuperado de: https://www.ecured.cu/Onda_senoidal#:~:text=Onda%20senoidal%20representa%20el%20valor,marcados%20en%20amplitud%20y%20tiempo. 
+       
+       -	Zapata, Fanny. (22 de agosto de 2019). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. Recuperado de https://www.lifeder.com/onda-senoidal/. 
+	
+       -	Cromer, Alan H. (1998). Física en la ciencia y en la industria. Editorial Reverté, SA. p. 294. ISBN 84-291-4156-1. Consultado el 18 de septiembre de 2017.
+ https://es.wikipedia.org/wiki/Sinusoide.
 
 14. Anexos
 
