@@ -122,17 +122,17 @@ el osciloscopio.
 				 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o2.png)
 
-			         Circuito a Implementar_Osciloscopio (Proteus)
+			Circuito a Implementar_Osciloscopio_Controles Volts/Div (Proteus)
 				 
 				 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o3.png)
 
-			         Circuito a Implementar_Osciloscopio (Proteus) 
+			Circuito a Implementar_Osciloscopio_Medida de Voltaje Pico  (Proteus) 
 				 
 				 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o4.png)
 
-			         Circuito a Implementar_Osciloscopio (Proteus) 
+			Circuito a Implementar_Osciloscopio_Medida VRL de Salida (Proteus) 
 
    
 
@@ -146,6 +146,10 @@ el osciloscopio.
 
 9. Cálculos.
 
+      - Para Calcular la Frecuencia angular ω=2pi*f
+                                            ω=2pi(2500)
+                                            ω=__15707.96327[rad/s]__
+      -  Para calcular Periodo: __T= 1/f[s]__
 
 10. Preguntas propuestas
 
