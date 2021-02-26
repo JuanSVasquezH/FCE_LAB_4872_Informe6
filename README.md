@@ -74,11 +74,27 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 5.	Lista De Componentes 
 
-	●
+	● 1 Generador de Funciones
+	
+	● 1 Osciloscopio
+	
+	● 1 Multímetro Digital
+	
+	● 1 Resistor de 1 kΩ
+	
+	● 1 Resistor de 2.2 kΩ
+	
+	● 1 Protoboard
 
 6. Procedimiento.
 
+   - Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+una frecuencia de 2.5 Khz.
+      
+   - Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+el osciloscopio.
 
+   
 
 7. Descripción De Prerrequisitos Y Configuración.
 
@@ -92,6 +108,38 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 
 10. Preguntas propuestas
+
+
+   10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+   ___________
+       
+   10.2. ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+
+   10.3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+   __________
+         
+   10.4.¿En qué valor está posicionada la perilla TIME/DIV? ___________
+
+   10.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+del osciloscopio?
+
+   - Amplitud de voltaje: ____________(V)
+
+   - Periodo: ____________(s)
+
+   10.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.
+
+   - f: _____________(Hz)
+
+   - ω: ____________(rad/s)
+
+   10.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+
+   10.8. Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.
+
+   - ¿Coinciden? _______ ¿Por qué?
+   _______________________________________________
 
 
 11. Aportaciones o recomendaciones. 
