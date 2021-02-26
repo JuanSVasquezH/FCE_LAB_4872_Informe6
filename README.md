@@ -147,8 +147,11 @@ el osciloscopio.
 9. Cálculos.
 
       - Para Calcular la Frecuencia angular ω=2pi*f
+      
                                             ω=2pi(2500)
+					    
                                             ω=__15707.96327[rad/s]__
+					    
       -  Para calcular Periodo: __T= 1/f[s]__
 
 10. Preguntas propuestas
