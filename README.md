@@ -54,22 +54,20 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 3.	Marco Teórico 
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/ImagenesInforme/MT.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT.png)
 	
              
 	
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/ImagenesInforme/MT1.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT1.png)
 
 4.	Diagramas 
        
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/ImagenesInforme/.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/ImagenesInforme/D1.png)
 
 							Diagráma 1 
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/ImagenesInforme/.png)
 
-							Diagráma 2
 
 
 5.	Lista De Componentes 
