@@ -114,6 +114,26 @@ el osciloscopio.
 
 			         Circuito a Implementar_Osciloscopio (Multisim) 
 
+
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o1.png)
+
+			         Circuito a Implementar_Osciloscopio (Proteus) 
+				 
+				 
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o2.png)
+
+			         Circuito a Implementar_Osciloscopio (Proteus)
+				 
+				 
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o3.png)
+
+			         Circuito a Implementar_Osciloscopio (Proteus) 
+				 
+				 
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o4.png)
+
+			         Circuito a Implementar_Osciloscopio (Proteus) 
+
    
 
 7. Descripción De Prerrequisitos Y Configuración.
