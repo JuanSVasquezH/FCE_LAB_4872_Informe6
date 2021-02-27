@@ -38,19 +38,17 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 	1.1 Objetivo General
 
-	●	
+	●	Determinar experimentalmente las características de señales senoidales.
 
-	●	
-
-	●	
+	●	Conocer la forma de señales senoidales representado en un osciloscopio.
 
 	1.2 Objetivos Específicos
 
 	●	Usar adecuadamente el osciloscopio para observar las formas de onda, y medir amplitudes y frecuencias con este instrumento.
 
-	●	
+	●	Analizar las señales de entrada y profundizar en el análisis de estas y sus distintas características
 
-	●	
+	●	Categorizar el uso del osciloscopio en forma senoidal de acuerdo con la perspectiva del usuario 
 
 3.	Marco Teórico 
 
@@ -78,7 +76,7 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
 
-							Diagráma 1 
+							Diagramas 1 
 
 
 
@@ -104,7 +102,7 @@ una frecuencia de 2.5 Khz.
       
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
 
-				     Circuito a Implementar (Multisim)_
+				     Circuito Para Implementar (Multisim)
 
 
    - Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
@@ -112,12 +110,12 @@ el osciloscopio.
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Osciloscopio.png)
 
-			         Circuito a Implementar_Osciloscopio (Multisim) 
+			         Circuito a Implementar Osciloscopio (Multisim) 
 
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o1.png)
 
-			         Circuito a Implementar_Osciloscopio (Proteus) 
+			         Circuito a Implementar Osciloscopio (Proteus) 
 				 
 				 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o2.png)
@@ -238,7 +236,6 @@ el osciloscopio.
 
     - Link del Video: 
     - Comprobacion Ejercicios: 
-
 
 
 
