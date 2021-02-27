@@ -234,8 +234,8 @@ el osciloscopio.
 
 14. Anexos
 
-    - Link del Video: 
-    - Comprobacion Ejercicios: 
+    - Link del Video: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Video%20Link.txt
+
 
 
 
