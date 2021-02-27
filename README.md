@@ -30,11 +30,11 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
                                                                        2020
 								       
 								       
-__1.	Tema: __
+1.	Tema: 
 
-	● Caracteristicas de la Onda Senoidal
+	● 	Características de la Onda Senoidal
 
-__2.	Objetivos__
+2.	Objetivos
 
 	1.1 Objetivo General
 
@@ -52,7 +52,7 @@ __2.	Objetivos__
 
 	●	
 
-__3.	Marco Teórico__ 
+3.	Marco Teórico 
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT.png)
 	     
@@ -73,7 +73,7 @@ __3.	Marco Teórico__
 	                                   Figura 2 Formas de Onda (Seno y Coseno)
 		
 
-__4.	Diagramas__ 
+4.	Diagramas 
        
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
@@ -83,7 +83,7 @@ __4.	Diagramas__
 
 
 
-__5.	Lista De Componentes __
+5.	Lista De Componentes 
 
 	● 1 Generador de Funciones
 	
@@ -97,7 +97,7 @@ __5.	Lista De Componentes __
 	
 	● 1 Protoboard
 
-__6. Procedimiento. __
+6. Procedimiento.
 
    - Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
@@ -136,25 +136,25 @@ el osciloscopio.
 
    
 
-__7. Descripción De Prerrequisitos Y Configuración. __
+7. Descripción De Prerrequisitos Y Configuración.
 
 	●	 
 
 
-__8. Tabulación de Datos. __
+8. Tabulación de Datos.
 
 
-__9. Cálculos. __
+9. Cálculos.
 
       - Para Calcular la Frecuencia angular ω=2pi*f
       
                                             ω=2pi(2500)
 					    
-                                            __ω=15707.96327[rad/s]__
+                                            ω=__15707.96327[rad/s]__
 					    
       -  Para calcular Periodo: __T= 1/f[s]__
 
-__10. Preguntas propuestas__
+10. Preguntas propuestas
 
 
    __10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?__
@@ -203,7 +203,7 @@ __10. Preguntas propuestas__
    Porque el Valor medido mediante el Osciloscopio nos otorga un valor mas exacto y aproximado a la vida real.
    Pero vemos que el dos da un valor casi idéntico al del Multímetro con una pequeña variación de __0.20[V]__.
 
-__11. Aportaciones o recomendaciones. __
+11. Aportaciones o recomendaciones. 
 
 	●	Es fundamental conocer el uso del osciloscopio y de sus controles para el obtener buenas mediciones de las señales, existen 3 tipos de controles.
 
@@ -213,7 +213,7 @@ __11. Aportaciones o recomendaciones. __
 
 	●	El control de disparo que nos permite controlar el disparo de la señal y el muestreo de esta.
 
-__12. Conclusiones. __
+12. Conclusiones. 
 
 	●	Durante el desarrollo de la práctica, se logró familiarizarse con la onda senoidal,   pues   esto   es   muy   importante   para entender el funcionamiento y donde se aplica ya   que   se trabajar con corriente alterna.
 
@@ -225,7 +225,7 @@ __12. Conclusiones. __
 
 	●	La sensibilidad y la escala son directamente proporcionales, mientras que la resolución y la escala son inversamente proporcionales.
 
-__13. Bibliografía. __
+13. Bibliografía.
 
        - 	Ecured (2020). Onda Senoidal, Recuperado de: https://www.ecured.cu/Onda_senoidal#:~:text=Onda%20senoidal%20representa%20el%20valor,marcados%20en%20amplitud%20y%20tiempo. 
        
@@ -234,10 +234,12 @@ __13. Bibliografía. __
        -	Cromer, Alan H. (1998). Física en la ciencia y en la industria. Editorial Reverté, SA. p. 294. ISBN 84-291-4156-1. Consultado el 18 de septiembre de 2017.
  https://es.wikipedia.org/wiki/Sinusoide.
 
-__14. Anexos__
+14. Anexos
 
     - Link del Video: 
     - Comprobacion Ejercicios: 
+
+
 
 
 
