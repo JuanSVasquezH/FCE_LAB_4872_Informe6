@@ -30,11 +30,11 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
                                                                        2020
 								       
 								       
-1.	Tema: 
+__1.	Tema: __
 
 	● Caracteristicas de la Onda Senoidal
 
-2.	Objetivos
+__2.	Objetivos__
 
 	1.1 Objetivo General
 
@@ -46,13 +46,13 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 	1.2 Objetivos Específicos
 
-	●	
+	●	Usar adecuadamente el osciloscopio para observar las formas de onda, y medir amplitudes y frecuencias con este instrumento.
 
 	●	
 
 	●	
 
-3.	Marco Teórico 
+__3.	Marco Teórico__ 
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/MT.png)
 	     
@@ -73,7 +73,7 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 	                                   Figura 2 Formas de Onda (Seno y Coseno)
 		
 
-4.	Diagramas 
+__4.	Diagramas__ 
        
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/D1.png)
@@ -83,7 +83,7 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 
 
-5.	Lista De Componentes 
+__5.	Lista De Componentes __
 
 	● 1 Generador de Funciones
 	
@@ -97,7 +97,7 @@ CARACTERÍSTICAS DE LA ONDA SENOIDAL
 	
 	● 1 Protoboard
 
-6. Procedimiento.
+__6. Procedimiento. __
 
    - Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
@@ -136,25 +136,25 @@ el osciloscopio.
 
    
 
-7. Descripción De Prerrequisitos Y Configuración.
+__7. Descripción De Prerrequisitos Y Configuración. __
 
 	●	 
 
 
-8. Tabulación de Datos.
+__8. Tabulación de Datos. __
 
 
-9. Cálculos.
+__9. Cálculos. __
 
       - Para Calcular la Frecuencia angular ω=2pi*f
       
                                             ω=2pi(2500)
 					    
-                                            ω=__15707.96327[rad/s]__
+                                            __ω=15707.96327[rad/s]__
 					    
       -  Para calcular Periodo: __T= 1/f[s]__
 
-10. Preguntas propuestas
+__10. Preguntas propuestas__
 
 
    __10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?__
@@ -200,31 +200,32 @@ el osciloscopio.
    
    - __¿Por qué?__
    
-   Porque el Valor medidio mediante el Osciloscopio nos otorga un valor mas exacgto y aproximado a la  vida real.
-   Pero vemos que el dos da un valor casi identico al del Multímetro con una pequeña variacion de __0.20[V]__.
+   Porque el Valor medido mediante el Osciloscopio nos otorga un valor mas exacto y aproximado a la vida real.
+   Pero vemos que el dos da un valor casi idéntico al del Multímetro con una pequeña variación de __0.20[V]__.
 
-11. Aportaciones o recomendaciones. 
+__11. Aportaciones o recomendaciones. __
 
-	●	
+	●	Es fundamental conocer el uso del osciloscopio y de sus controles para el obtener buenas mediciones de las señales, existen 3 tipos de controles.
 
-	●	
-  
-	●	
+	●	El vertical que nos permite desplazarnos verticalmente como su nombre lo indica controlar las escalas en el eje vertical, podemos poner en modo AC/DC/GND, etc. 
 
+	●	El control horizontal que nos permite mover la señal horizontalmente, nos permite poner en modo CHOP/ALT, modo ADD, etc.
 
-12. Conclusiones. 
+	●	El control de disparo que nos permite controlar el disparo de la señal y el muestreo de esta.
 
-	●	
+__12. Conclusiones. __
 
-	●	
-  
-	●	
+	●	Durante el desarrollo de la práctica, se logró familiarizarse con la onda senoidal,   pues   esto   es   muy   importante   para entender el funcionamiento y donde se aplica ya   que   se trabajar con corriente alterna.
 
-	●	
+	●	El osciloscopio nos permite obtener más información de una fuente de voltaje alterno que usando un voltímetro, ya que las fuentes de AC tienen distintas presentaciones tales como senoidal, cuadrada o triangular; además de que nos permite medir señales al mismo tiempo en distintos modos, a estas señales en el osciloscopio podemos sumarlas, podemos visualizar una de ellas o ambas dependiendo lo que necesitemos o deseemos.
 
-	●	
+	●	Las medidas realizadas con el osciloscopio varían de las realizadas con el multímetro debido a la diferente escala con la que se medición; en la medición con el osciloscopio se introduce un error humano ya que el instrumento es análogo y variará dependiendo de la percepción del observador, pero esta variación será mínima.
 
-13. Bibliografía.
+	●	La sensibilidad Indica la facilidad del osciloscopio para amplificar señales débiles. Y la Resolución nos indica con que precisión se convierten las señales de entrada en valores digitales almacenados en la memoria. 
+
+	●	La sensibilidad y la escala son directamente proporcionales, mientras que la resolución y la escala son inversamente proporcionales.
+
+__13. Bibliografía. __
 
        - 	Ecured (2020). Onda Senoidal, Recuperado de: https://www.ecured.cu/Onda_senoidal#:~:text=Onda%20senoidal%20representa%20el%20valor,marcados%20en%20amplitud%20y%20tiempo. 
        
@@ -233,7 +234,7 @@ el osciloscopio.
        -	Cromer, Alan H. (1998). Física en la ciencia y en la industria. Editorial Reverté, SA. p. 294. ISBN 84-291-4156-1. Consultado el 18 de septiembre de 2017.
  https://es.wikipedia.org/wiki/Sinusoide.
 
-14. Anexos
+__14. Anexos__
 
     - Link del Video: 
     - Comprobacion Ejercicios: 
