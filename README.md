@@ -136,7 +136,8 @@ el osciloscopio.
 
 7. Descripción De Prerrequisitos Y Configuración.
 
-	●	 
+	 ● En la presente práctica mediante un circuito simple realizarelos la simulacion y conocer tanto el valor el voltaje  pico-pico por medio de un osciloscopio  en la resistencia Rl, y el valor de volatje mediante un Multímetro en Rl.
+	 Para ello debemos tener en cuenta los factores de una onda senoidal y como interpretar dichos datos al momento de realizar una simulasión  (la simulacion se la realizo mediante __PROTEUS__). Una vez medidio dichos valores los comparamos y sacamos el error que es un valor minimo ya que ambos valores simulados tienen un margen de error muy bajo. 
 
 
 8. Tabulación de Datos.
