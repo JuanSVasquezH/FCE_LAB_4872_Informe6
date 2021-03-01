@@ -117,16 +117,6 @@ el osciloscopio.
 
 			         Circuito a Implementar Osciloscopio (Proteus) 
 				 
-				 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o2.png)
-
-			Circuito a Implementar_Osciloscopio_Controles Volts/Div (Proteus)
-				 
-				 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o3.png)
-
-			Circuito a Implementar_Osciloscopio_Medida de Voltaje Pico  (Proteus) 
-
 
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Osciloscopio2.png)
 
@@ -204,19 +194,18 @@ el osciloscopio.
 
    __10.7. Con el multímetro digital mida el voltaje de salida en RL:__ 
    
-   - VRL: __11[V]__
+   - VRL: __9.72[V]__
 
    __10.8. Compare el voltaje medido en el punto 10.5. y el obtenido en el punto 10.7.__
 
    - __¿Coinciden?__
 
-   Los Voltajes medidos no coinciden ya que en el osciloscopios el valor del voltaje __Vp= 11.20 [v]__ 
-   y el voltaje __VRL= 11[V]__
+   Los Voltajes medidos no coinciden ya que en el osciloscopios el valor del voltaje __Vp= 11.30 [v]__ 
+   y el voltaje __VRL= 9.72[V]__
    
    - __¿Por qué?__
    
-   Porque el Valor medido mediante el Osciloscopio nos otorga un valor mas exacto y aproximado a la vida real.
-   Pero vemos que el dos da un valor casi idéntico al del Multímetro con una pequeña variación de __0.20[V]__.
+ 
 
 11. Aportaciones o recomendaciones. 
 
