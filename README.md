@@ -126,11 +126,24 @@ el osciloscopio.
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o3.png)
 
 			Circuito a Implementar_Osciloscopio_Medida de Voltaje Pico  (Proteus) 
-				 
-				 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/o4.png)
+
+
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Osciloscopio2.png)
+
+			Circuito a Implementar_Osciloscopio_Medida de Voltaje Pico  (Proteus) 
+			
+			
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Osciloscopio1.png)
+
+			Circuito a Implementar_Osciloscopio_Medida de Voltaje Pico  (Proteus)
+
+   - Señal Medica con el Osciloscopio, deonde se puede ver los Volt/div & Time/div
+
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/Multimetro.png)
 
 			Circuito a Implementar_Osciloscopio_Medida VRL de Salida (Proteus) 
+   
+   - Medida de Voltaje en el Resistor Rl mediante un Multímetro
 
    
 
