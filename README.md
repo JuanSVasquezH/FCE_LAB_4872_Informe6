@@ -147,7 +147,7 @@ el osciloscopio.
 
 8. Tabulación de Datos.
 
-	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/TDatos.png)
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe6/blob/main/Imagenes/TDatos.jpeg)
 
 9. Cálculos.
 
