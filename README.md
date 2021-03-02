@@ -176,7 +176,7 @@ el osciloscopio.
          
    __10.4.¿En qué valor está posicionada la perilla TIME/DIV?__
    
-   - __50ms Time/Div__
+   - __50us Time/Div__
 
    __10.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
    del osciloscopio?__
