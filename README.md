@@ -205,6 +205,7 @@ el osciloscopio.
    
    - __¿Por qué?__
    
+   Porque el valor que nos otroga el Osciloscopio son valores de voltaje Pico en cambio el Multímetro nos otroga un valor  de volatje RMS, por ende sus valores son distintos ya que no estan en una misma unidad de medida. 
  
 
 11. Aportaciones o recomendaciones. 
