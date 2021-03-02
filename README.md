@@ -164,7 +164,7 @@ el osciloscopio.
 
    __10.1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?__
    
-   - Aproximadamente 5 cuadroa y medio del valor centra de la Onda 
+   - Aproximadamente 5 cuadros y medio del valor centro de la Onda 
        
    __10.2. ¿En qué valor está posicionada la perilla VOLTS/DIV?__
    
